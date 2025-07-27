@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Junaid Goraya
 
-<!--
-**junaidgoraya/junaidgoraya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 4th Semester Computer Science Student at COMSATS University Vehari  
+💻 Front-End Developer – HTML, CSS, JavaScript  
+🌱 Currently Learning React.js  
+📫 Reach me at: junaidgoray184@gmail.com  
+🌐 Portfolio: [junaidgoraya.github.io](https://junaidgoraya.github.io)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Web Design
+- Git & GitHub
+
+
+
