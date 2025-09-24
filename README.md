@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Junaid Goraya
 
-🎓 4th Semester Computer Science Student at COMSATS University Vehari  
+🎓 5th Semester Computer Science Student at COMSATS University Vehari  
 💻 Front-End Developer – HTML, CSS, JavaScript  
 🌱 Currently Learning React.js  
 📫 Reach me at: junaidgoray184@gmail.com  
