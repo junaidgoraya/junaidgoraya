@@ -4,7 +4,7 @@
 💻 Aspiring MERN Stack Developer  
 🌱 Currently building Full Stack Projects using React & Node.js  
 📫 Reach me at: junaidgoray184@gmail.com  
-🌐 Portfolio: https://junaidgoraya.github.io
+🌐 Portfolio: https://my-portfolio-steel-one.vercel.app/
 
 ---
 
