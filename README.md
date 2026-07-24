@@ -13,8 +13,7 @@
 ---
 
 ## 👨‍💻 About Me
-
-6th Semester Computer Science student at **COMSATS University Islamabad**, building production-ready full-stack web applications and AI-powered systems. I work across the full stack — from responsive React UIs to scalable Node.js APIs and Next.js applications deployed on Vercel.
+Final Year BS Computer Science student at **COMSATS University Islamabad**, passionate about building production-ready full-stack web applications and AI-powered systems. I work across the full stack — from responsive React UIs to scalable Node.js APIs and Next.js applications deployed on Vercel.
 
 - 🎓 BS Computer Science @ COMSATS University Islamabad
 - 🔭 Currently working on **AI-powered web apps** and **Agentic AI workflows**
